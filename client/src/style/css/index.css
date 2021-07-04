@@ -1,0 +1,34 @@
+/**
+	* fonts sans-serif
+    * "Poppins"   = [ 100, 200, 300, 400, 500, 600]
+    * "Open Sans" = [ 300, 400, 600]
+  * fonts serif
+    * "Lora"      = [ 400, 500, 600]
+**/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap");
+/* generate theme */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 1.8rem;
+}
+
+body {
+  background: #f5f6fa;
+  color: #2f3640;
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #00a8ff;
+  transition: all 0.3s ease;
+}
+a:hover {
+  color: #4cd137;
+}
+
+/*# sourceMappingURL=index.css.map */

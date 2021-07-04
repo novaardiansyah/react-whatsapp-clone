@@ -1,0 +1,27 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+@use 'sass:map';
+@use 'partials/variables'as v;
+@use 'partials/mixin' as m;
+@use 'partials/fonts';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 1.8rem;
+}
+
+body {
+  @include m.darkTheme('false');
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: map-get(v.$colors, cl-light-blue);
+  transition: all .3s ease;
+  
+  &:hover {
+    color: map-get(v.$colors, cl-green);
+  }
+}

@@ -1,0 +1,32 @@
+/**
+  * please do not delete this comment.
+  * customized colors and backgrounds into each class.
+  * color reference from https://flatuicolors.com/palette/se
+  * created by Nova Ardiansyah
+**/
+
+/**
+  * connect with me on the following social media
+  * Facebook  | https://facebook.com/nova981
+  * Github    | https://github.com/novaardiansyah1
+  * LinkedIn  | https://www.linkedin.com/mwlite/in/novaardiansyah
+  * Instagram | https://www.instagram.com/novaardiansyah._/
+  * Email     | novaardi810@gmail.com
+**/
+
+@use 'sass:map';
+@use 'partials/variables' as v;
+
+@mixin create-color() {
+  @each $name, $color in v.$colors {
+    .text-#{$name} {
+      color: $color;
+    }
+    .bg-#{$name} {
+      background: $color;
+    }
+  }
+}
+
+@include create-color();
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,175 @@
+/**
+  * please do not delete this comment.
+  * customized colors and backgrounds into each class.
+  * color reference from https://flatuicolors.com/palette/se
+  * created by Nova Ardiansyah
+**/
+/**
+  * connect with me on the following social media
+  * Facebook  | https://facebook.com/nova981
+  * Github    | https://github.com/novaardiansyah1
+  * LinkedIn  | https://www.linkedin.com/mwlite/in/novaardiansyah
+  * Instagram | https://www.instagram.com/novaardiansyah._/
+  * Email     | novaardi810@gmail.com
+**/
+.text-cl-dark {
+  color: #353b48;
+}
+
+.bg-cl-dark {
+  background: #353b48;
+}
+
+.text-cl-dark-1 {
+  color: #2f3640;
+}
+
+.bg-cl-dark-1 {
+  background: #2f3640;
+}
+
+.text-cl-light {
+  color: #f5f6fa;
+}
+
+.bg-cl-light {
+  background: #f5f6fa;
+}
+
+.text-cl-light-1 {
+  color: #dcdde1;
+}
+
+.bg-cl-light-1 {
+  background: #dcdde1;
+}
+
+.text-cl-gray {
+  color: #7f8fa6;
+}
+
+.bg-cl-gray {
+  background: #7f8fa6;
+}
+
+.text-cl-gray-1 {
+  color: #718093;
+}
+
+.bg-cl-gray-1 {
+  background: #718093;
+}
+
+.text-cl-red {
+  color: #e84118;
+}
+
+.bg-cl-red {
+  background: #e84118;
+}
+
+.text-cl-red-1 {
+  color: #c23616;
+}
+
+.bg-cl-red-1 {
+  background: #c23616;
+}
+
+.text-cl-dark-blue {
+  color: #273c75;
+}
+
+.bg-cl-dark-blue {
+  background: #273c75;
+}
+
+.text-cl-dark-blue-1 {
+  color: #192a56;
+}
+
+.bg-cl-dark-blue-1 {
+  background: #192a56;
+}
+
+.text-cl-light-blue {
+  color: #00a8ff;
+}
+
+.bg-cl-light-blue {
+  background: #00a8ff;
+}
+
+.text-cl-light-blue-1 {
+  color: #0097e6;
+}
+
+.bg-cl-light-blue-1 {
+  background: #0097e6;
+}
+
+.text-cl-blue {
+  color: #487eb0;
+}
+
+.bg-cl-blue {
+  background: #487eb0;
+}
+
+.text-cl-blue-1 {
+  color: #40739e;
+}
+
+.bg-cl-blue-1 {
+  background: #40739e;
+}
+
+.text-cl-green {
+  color: #4cd137;
+}
+
+.bg-cl-green {
+  background: #4cd137;
+}
+
+.text-cl-green-1 {
+  color: #44bd32;
+}
+
+.bg-cl-green-1 {
+  background: #44bd32;
+}
+
+.text-cl-yellow {
+  color: #fbc531;
+}
+
+.bg-cl-yellow {
+  background: #fbc531;
+}
+
+.text-cl-yellow-1 {
+  color: #e1b12c;
+}
+
+.bg-cl-yellow-1 {
+  background: #e1b12c;
+}
+
+.text-cl-purple {
+  color: #9c88ff;
+}
+
+.bg-cl-purple {
+  background: #9c88ff;
+}
+
+.text-cl-purple-1 {
+  color: #8c7ae6;
+}
+
+.bg-cl-purple-1 {
+  background: #8c7ae6;
+}
+
+/*# sourceMappingURL=colors.css.map */
